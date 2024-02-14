@@ -1,0 +1,4 @@
+python-can==4.2.2
+intelhex==2.3.0
+alive-progress==3.1.5
+pysimplegui==4.60.5
